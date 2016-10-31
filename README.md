@@ -1,4 +1,4 @@
-# GreenLabs  Aula 8 - Força da Gravidade! Fazendo tudo cair para sempre, ou quase isso...
+# GreenLabs  Aula #8 - Força da Gravidade! Fazendo tudo cair para sempre, ou quase isso...
 Esta é a aula #8 da Série GreenLabs/GreenfootBR/DFJUG. 
 Nesta aula nós vamos mostrar como é possível criar um efeito de gravidade para que os objetos do nosso mundo sejam sempre 'atraidos' contra o chão do cenário. 
 
@@ -6,6 +6,9 @@ Nesta aula nós vamos mostrar como é possível criar um efeito de gravidade par
 * Como identificar a altura atual de um personagem dentro do mundo.
 * Como alterar altura do personagem com o método setLocation.
 * Como criar o efeito de gravidade sobre os personagens do jogo.
+
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://www.youtube.com/watch?v=x38Wq6rTeT0&list=PLkObiPpjQQ-fcKFelZvZjV2xMwqkRZvuL&index=8)
 
 ## Equipe | Team
 
